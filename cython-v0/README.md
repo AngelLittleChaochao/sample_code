@@ -1,3 +1,11 @@
+# Links
+
+[cython website](https://cython.readthedocs.io/en/latest/#)
+[cython github](https://github.com/cython/cython)
+[cython FAQ](https://github.com/cython/cython/wiki/FAQ)
+[cpython github](https://github.com/python/cpython)
+[pyrex](https://wiki.python.org/moin/Pyrex)
+
 # Run
 
 ```
